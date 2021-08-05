@@ -238,7 +238,7 @@ img {
   fill: var(--first-color);
 }
 .home__blob-img {
-  width: 170px;
+  width: 200px;
 }
 .home__data {
   grid-column: 1/3;
